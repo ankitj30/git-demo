@@ -1,3 +1,3 @@
 # git-demo
 Sample repository
-Author Ankit Narendra Niraj
+Author <br> Ankit <br>Narendra <br> Niraj
